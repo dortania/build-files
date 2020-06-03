@@ -23,13 +23,16 @@
 2200S
 32MB
 3700X
+390X
 3D
 4G
 64MB
+6970M
 7920x
 7980xe
 7XX
 7zip
+970EvoPlus
 AAPL
 AHCI
 AIDA64
@@ -76,6 +79,8 @@ AppleID
 AppleIntelCPUPM
 AppleIntelCPUPowerManagement
 AppleIntelCPUPowerManagment
+AppleIntelPowerManagement
+AppleLPC
 AppleLife
 AppleMCEReporter
 AppleMCEReporterDisabler
@@ -87,6 +92,7 @@ Aptio
 AptioMemoryFix
 Architected
 Arg
+Arrendale
 AsMedia
 AsRock
 Asus
@@ -97,6 +103,7 @@ AudioDxe
 Auth
 B0D3
 B360
+B75
 BGRT
 BT
 BaseSystem
@@ -104,6 +111,7 @@ BeyondCompare
 BlueScreen
 BootCamp
 BootInstall
+Bootable
 BrcmBluetoothInjector
 BrcmFirmwareData
 BrcmPatchRAM[0-3]?
@@ -131,6 +139,7 @@ Capitan
 Carcraftz
 Celerons
 Chipsets
+Clarkdale
 Cmd
 Codec
 Codecs
@@ -139,6 +148,7 @@ Config
 Configurator
 ConsoleControl
 ConsoleGOP
+Core2
 CorpNewt
 CorpNewt's
 Cpu
@@ -159,6 +169,7 @@ DSMOS
 DVI
 DVMT
 DVMT-prealloc
+Decluttering
 Dev
 DeviceProperty
 DhinakG
@@ -224,6 +235,8 @@ G6
 GBE1
 GFX
 GFX0
+GMA
+GMA950
 GPIO
 GPT
 GPT.
@@ -322,6 +335,7 @@ Kexts
 Keychain
 L8200A
 LAPIC
+LPC
 LPC0
 LPCB
 LPM
@@ -365,6 +379,7 @@ NIC
 NICs
 NOOPT
 NPM
+NTFS
 NVCAP
 NVCAP-settings
 NVMe
@@ -435,12 +450,15 @@ PXSX
 Patch1
 PciRoot
 PciRoot's
+Penryn
+Penyrn
 Plist
 Plists
 PowerProperties
 Pre-Allocated
 ProperTree
 ProperTree's
+QE/CI
 R5/R7
 R9
 RDRAND
@@ -491,6 +509,7 @@ Shiki
 ShowPackageContents
 Siri
 Skylake
+Skylake-SP
 Skylake-X
 SmUUID
 SmallTree
@@ -509,6 +528,7 @@ TMR
 TRX40
 TSC
 TSCAdjustReset
+Telemetrap
 TetherMe
 TextMate
 TextMode
@@ -539,6 +559,7 @@ VDADecoderChecker
 VM
 VMs
 VMware
+VPN
 VSCode
 VerifyMsrE2
 VirtualBox
@@ -566,6 +587,7 @@ WhateverGreen
 WhateverGreen's
 Wifi
 X299
+X3100
 X570
 X79
 X86PlatformPlugin
@@ -579,6 +601,7 @@ XHCI-unsupported
 XLNCUSBFIX
 XLNCUSBFix
 XNU
+XNU's
 XOSI
 XPoint
 Xcode
@@ -586,6 +609,7 @@ Xeon
 Xeons
 Z370
 Z390
+Z490
 Z67
 Z77
 Z87
@@ -609,6 +633,7 @@ bitmask
 boot-arg
 boot-args
 bootable
+bootcamp
 bootloader
 bootloaders
 borked
@@ -657,6 +682,7 @@ framebuffer-con1-alldata
 framebuffer-con1-enable
 framebuffer-con2-alldata
 framebuffer-con2-enable
+framebuffers
 fs
 gIOLockState
 gdisk
@@ -682,6 +708,9 @@ iGPU's
 iGPU-only
 iGPUs
 iMac
+iMac10
+iMac11
+iMac12
 iMac13
 iMac14
 iMac15
@@ -701,6 +730,7 @@ ig-platform-id's
 igfxfw
 ix-3xxx
 jailbroken
+kernelcache
 kext
 kext(\.)?
 kextd
@@ -714,6 +744,8 @@ macOS(\.)?
 macserial
 markdownlint-cli
 midi1996
+msi
+multiboot
 natively
 non-UEFI
 non-latin
@@ -746,6 +778,7 @@ savvamitrofanov
 shiki
 shikigva
 slavs
+slowgeek
 socketed
 soooooo
 spacebar
