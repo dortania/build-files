@@ -1,0 +1,12 @@
+/node_modules/
+/_book/
+/extra-files/
+/.git/
+/icons/
+/images/
+/styles/
+.travis.yml
+**/*.json
+**/*.txt
+**/*.js
+**/*.log
