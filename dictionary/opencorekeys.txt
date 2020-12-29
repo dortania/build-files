@@ -1,4 +1,5 @@
 4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14
+4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102
 7C436110-AB2A-4BBB-A880-FE41995C9F82
 ACPI
 APFS
@@ -14,6 +15,7 @@ AppleDebugLog
 AppleEvent
 AppleImageConversion
 AppleKeyMap
+ApplePanic
 AppleRtcRam
 AppleSmcIo
 AppleUserInterfaceTheme
@@ -39,6 +41,7 @@ BoardRevision
 BoardSerialNumber
 BoardType
 BoardVersion
+Boot1f32
 BootProtect
 Booter
 BundlePath
@@ -94,6 +97,7 @@ IgnoreTextInGraphics
 IncreasePciBarSize
 InitialTSC
 JumpstartHotPlug
+JumpstartHotplug
 KeyFiltering
 KeyForgetThreshold
 KeyMergeThreshold
@@ -104,6 +108,7 @@ LapicKernelPanic
 LegacyEnable
 LegacyOverwrite
 LegacySchema
+Lifewire
 MLB
 MaxKernel
 MemoryFormFactor
@@ -152,6 +157,7 @@ Resolution
 SMBIOS
 SanitiseClearScreen
 ScanPolicy
+SerialInit
 SetupVirtualMap
 ShowPicker
 SignalAppleOS
@@ -162,14 +168,15 @@ SmcVersion
 SpoofVendor
 StartupPowerEvents
 SyncRuntimePermissions
+SysReport
 SystemFamily
 SystemManufacturer
+SystemMemoryStatus
 SystemProductName
 SystemSKUNumber
 SystemSerialNumber
 SystemUUID
 SystemVersion
-SysttemProductName
 TableLength
 TableSignature
 TakeoffDelay
@@ -189,3 +196,7 @@ Vault
 VolumeAmplifier
 WriteFlash
 XhciPortLimit
+boot0
+bootia32
+bootx64
+snapshotted
