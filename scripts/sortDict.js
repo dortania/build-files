@@ -3,10 +3,10 @@ const fs = require("fs");
 process.chdir(__dirname);
 
 console.log("Reading dictionary.txt");
-let dictionary = fs.readFileSync("../dictionary/dictionary.txt", { encoding: "UTF8" })
+let dictionary = fs.readFileSync("../shared/dictionary/dictionary.txt", { encoding: "UTF8" })
                     .replace("\r", "").split("\n");
 
-let ocDictionary = fs.readFileSync("../dictionary/opencorekeys.txt", { encoding: "UTF8" })
+let ocDictionary = fs.readFileSync("../shared/dictionary/opencorekeys.txt", { encoding: "UTF8" })
                      .replace("\r", "").split("\n");
 
 dictionary = dictionary.filter(string => string != "");
@@ -22,5 +22,5 @@ dictionary.sort();
 ocDictionary.sort();
 
 console.log("Writing dictionary.txt");
-fs.writeFileSync("../dictionary/dictionary.txt", dictionary.join("\n"));
-fs.writeFileSync("../dictionary/opencorekeys.txt", ocDictionary.join("\n"));
+fs.writeFileSync("../shared/dictionary/dictionary.txt", dictionary.join("\n"));
+fs.writeFileSync("../shared/dictionary/opencorekeys.txt", ocDictionary.join("\n"));
