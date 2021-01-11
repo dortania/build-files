@@ -734,6 +734,7 @@ SecureBootModel
 SetVirtualAddresses
 Shannee
 SharedSupport
+Shijuro
 Shiki
 ShowPackageContents
 SidecarEnabler
@@ -1170,7 +1171,7 @@ untrusted
 userspace
 v1
 v3006
-v5210
+v5120
 vSMC
 ver
 vit9696
